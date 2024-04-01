@@ -23,8 +23,6 @@ if answer.lower() == "world trade organization":
 else:
     print('Incorrect!')
 
-
-
 answer = input("What does RAM stand for? ")
 if answer.lower() == "random access memory":
     print('Correct')
